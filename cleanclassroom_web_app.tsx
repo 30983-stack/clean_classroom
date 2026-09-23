@@ -14,7 +14,7 @@ const DEMO_USERS = {
     password: '1234', 
     name: 'ครูวิภาดา รักเรียน', 
     role: 'teacher', 
-    roleName: 'ครูประจำชั้น (ม.2/1)', 
+    roleName: 'ครูประจำชั้น (ม.4/7)', 
     avatar: '👩‍🏫',
     badgeColor: 'bg-amber-500/10 text-amber-400 border-amber-500/30'
   },
