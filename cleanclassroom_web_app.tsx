@@ -450,7 +450,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="font-extrabold text-base text-white leading-none">CleanClassroom</h1>
-              <p className="text-[11px] text-slate-400 mt-0.5">ห้องเรียน ม.2/1 • ประจำปีการศึกษา 2026</p>
+              <p className="text-[11px] text-slate-400 mt-0.5">ห้องเรียน ม.4/7 • ประจำปีการศึกษา 2569</p>
             </div>
           </div>
 
