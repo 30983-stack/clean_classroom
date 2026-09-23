@@ -8,7 +8,7 @@ import {
 
 // --- DEMO ACCOUNTS ---
 const DEMO_USERS = {
-  teacher: { username: 'teacher', password: '1234', name: 'ครูวิภาดา รักเรียน', role: 'teacher', roleName: 'ครูประจำชั้น (ม.2/1)', avatar: '👩‍🏫' },
+  teacher: { username: 'teacher', password: '1234', name: 'ครูวิภาดา รักเรียน', role: 'teacher', roleName: 'ครูประจำชั้น (ม.4/7)', avatar: '👩‍🏫' },
   leader: { username: 'leader', password: '1234', name: 'นายสมชาย สายกวาด (หัวหน้ากลุ่ม 3)', role: 'leader', roleName: 'หัวหน้าเวรประจำวัน', avatar: '🧑‍เก' },
   student: { username: 'student', password: '1234', name: 'ด.ญ.สมหญิง ขยันดี', role: 'student', roleName: 'นักเรียน (กลุ่มเวรที่ 3)', avatar: '👧' }
 };
